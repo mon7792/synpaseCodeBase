@@ -1,0 +1,74 @@
+/*  navigation bar style */
+
+#fp-nav ul li a span,
+.fp-slidesNav ul li a span {
+	background: white;
+	width: 8px;
+	height: 8px;
+	margin: -4px 0 0 -4px;
+}
+
+#fp-nav ul li a.active span,
+.fp-slidesNav ul li a.active span,
+#fp-nav ul li:hover a.active span,
+.fp-slidesNav ul li:hover a.active span {
+	width: 16px;
+	height: 16px;
+	margin: -8px 0 0 -8px;
+	background: transparent;
+	box-sizing: border-box;
+	border: 1px solid #24221F;
+}
+
+
+
+
+
+/*  add new font*/
+
+
+#page1
+{
+  background:#13042C;
+}
+
+/*  */
+/*  Initial Flow
+1. synapse display none
+*/
+/*  synapse logo*/
+
+
+
+#g4919
+{
+  opacity: 1;
+}
+#Y2018
+{
+  opacity: 1;
+}
+#science{
+  opacity: 0;
+}
+#industry{
+  opacity: 0;
+}
+#AI{
+  opacity: 0;
+}
+#Bitcoin{
+  opacity: 0;
+}
+#FStudent{
+  opacity: 0;
+  display: none;
+}
+#MStudent{
+  opacity: 0;
+}
+/* university logo */
+#path4591
+{
+  opacity: 0;
+}
